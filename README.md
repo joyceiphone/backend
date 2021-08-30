@@ -22,4 +22,4 @@ npm run build
 
 Open [http://localhost:4000/graphql](http://localhost:3000/graphql) and take a look around.
 
-![image](graphql.png)
+![image](graphql.jpg)
